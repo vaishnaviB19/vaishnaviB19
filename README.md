@@ -1,17 +1,3 @@
-<!--
-**vaishnaviB19/vaishnaviB19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Vaishnavi Bharanale</h1>
 <h3 align="center">💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🧠 DSA Explorer</h3>
 
@@ -24,10 +10,10 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 🌟 Passionate **Full-Stack Developer (MERN)**  
-👩‍💻 Love building clean, responsive and user-friendly web apps  
-🧠 Consistent **DSA problem solver** on LeetCode  
-🎨 Turn ideas into working products with elegant UI/UX  
-📍 Based in Pune, Maharashtra  
+💡 Focused on building **clean, impactful and scalable** web applications  
+🧠 Active **DSA problem solver** on LeetCode  
+🎨 Love designing intuitive and aesthetic UI/UX  
+📍 Pune, Maharashtra  
 
 ---
 
@@ -52,17 +38,69 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Projects
 
-### 🔹 **QuitTrack – Smoking Cessation Tracker (MERN)**
-> Daily logs, health stats, goals, cigarette tracking  
-🔗 *Repo:* *(Add link after uploading)*
+---
 
-### 🔹 **Vacation Rental Listings App (React + JS)**
-✔ Dynamic UI  
-✔ Country filter & pricing  
-✔ Reusable components  
+### 🔹 **1. QuitTrack – Smoking Cessation Tracker (MERN)**
+A full-featured wellness & habit-tracking application designed to help users quit smoking gradually.
 
-### 🔹 **Multiple DSA & CP Solutions**
-💡 Clean, optimized solutions to common LeetCode problems
+#### ⭐ Key Highlights:
+- 📅 **Daily Cigarette Logging** – Tracks how many cigarettes a user smokes each day  
+- ❤️ **Health Recovery Timeline** – Shows lung recovery, breathing improvement & stamina growth  
+- 💰 **Money-Saving Insights** – Calculates how much money the user saves by smoking less  
+- 🎯 **Daily Target Setting** – Users can set daily cigarette limits and track progress  
+- 😀 **Mood & Craving Tracking** – Helps identify psychological patterns during quitting  
+- 📊 **Visual Progress Analytics** – Easy-to-understand charts for long-term progress  
+- 🔐 **Secure Login & Auth** – JSON Web Token (JWT)-based authentication  
+- ⚡ Fully built using: **React, Node.js, Express, MongoDB**
+
+🔗 *Repo:* (Add link after upload)
+
+---
+
+### 🔹 **2. Vacation Rental Listings App (React + JavaScript)**
+A modern UI application to explore travel accommodations and rentals across different countries.
+
+#### ⭐ Key Highlights:
+- 🏡 **Dynamic Listing Cards** – Beautiful property previews with images, pricing & location  
+- 🌍 **Country Filter System** – Filter rentals by country for quick discovery  
+- 📱 **Fully Responsive UI** – Built with reusable React components  
+- 💵 **Price Indicators** – Displays cost per night with elegant formatting  
+- 🧭 **Clean Navigation & Layout** – Optimized for user experience and readability  
+- 🧩 **Modular Component Structure** – Ideal for scaling into a full travel product
+
+🔗 Repo: https://github.com/vaishnaviB19/wonderlust
+🔗 Website Link: https://wonderlust-yh7u.onrender.com
+---
+
+### 🔹 **3. Real-Time Chat Application (Node.js + Socket.io + Express)**
+A fast and responsive real-time messaging application for seamless communication between users.
+
+#### ⭐ Key Highlights:
+- 💬 **Instant Real-Time Messaging** – Powered by **Socket.io**  
+- 👥 **Private & Group Chats** – Supports both one-to-one and group communication  
+- 🟢 **Live User Presence Indicator** – Shows online/offline users  
+- 📱 **Responsive UI** – Clean chat interface optimized for all screen sizes  
+- ⚙️ **Robust Backend** – Node.js + Express with persistent socket connections  
+- 🔐 **User Identity Handling** – Unique socket IDs ensure user-specific communication  
+- 🚀 Can be extended into: Chatrooms, Direct Messages, File Sharing, Notifications
+
+🔗 Repo: https://github.com/vaishnaviB19/chat-application
+🔗 Website Link: https://chat-application-vbo6.onrender.com/
+
+
+---
+
+### 🔹 **4. DSA & Competitive Programming Repository**
+A structured collection of optimized LeetCode & coding interview solutions.
+
+#### ⭐ Key Highlights:
+- ✨ Clean & readable code  
+- 🧠 Covers topics like arrays, recursion, DP, backtracking, graphs, two pointers & more  
+- 📘 Useful for interview preparation  
+- ⏱ Focus on optimized solutions (time & space)  
+- 🔥 Updated regularly with new problems
+
+🔗 Leetcode: https://leetcode.com/u/vaishnavi_Bharanale/
 
 ---
 
@@ -77,16 +115,17 @@ Here are some ideas to get you started:
 
 ## ⚡ Recent Activity
 
-- 🔥 Solving DSA daily on LeetCode  
-- 🚀 Building MERN projects  
-- 💡 Exploring UX improvements & clean UI components  
+- 🔥 Solving DSA daily  
+- 🌱 Learning new MERN features & backend patterns  
+- 💬 Building real-time features (Socket.io, events, notifications)  
+- 🎨 Creating beautiful UI components  
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi-bharanale" target="blank">
+<a href="linkedin.com/in/vaishnavi-bharanale-3032a8259" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:vaishnavibharanale19@gmail.com" target="blank">
