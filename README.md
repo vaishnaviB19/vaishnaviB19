@@ -70,6 +70,7 @@ A modern UI application to explore travel accommodations and rentals across diff
 
 🔗 Repo: https://github.com/vaishnaviB19/wonderlust
 🔗 Website Link: https://wonderlust-yh7u.onrender.com
+
 ---
 
 ### 🔹 **3. Real-Time Chat Application (Node.js + Socket.io + Express)**
