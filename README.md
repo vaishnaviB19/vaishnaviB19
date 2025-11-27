@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Bharanale</h1>
 <h3 align="center">💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🧠 DSA Explorer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishnaviB19&label=Profile%20Views&color=F06292&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
